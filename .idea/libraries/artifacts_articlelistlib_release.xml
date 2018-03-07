@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:articlelistlib-release">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/articlelistlib-release.aar/8672ac8f714bfbd3f69d09e390ad2034/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/articlelistlib-release.aar/8672ac8f714bfbd3f69d09e390ad2034/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
